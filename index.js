@@ -57,4 +57,4 @@ client.user.setGame(`ڕیکلام بۆمن بنێرە`,"http://twitch.tv/PAYWAND
 
 
 
-client.login("NzkyNjc1NjU5NDIyODkyMTAz.X-hKvA.LNDjk9kCurHPCcRwfmKMQtNFR38 ");//تۆکین لێرە دانێ
+client.login("NzkyMzgyNzA0OTkzNjk3ODIz.X-c55g.xwrRROmgo316uE48KxH3cUk6SCo");//تۆکین لێرە دانێ
