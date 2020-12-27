@@ -3,7 +3,7 @@ const client = new Discord.Client({disableEveryone: true})
 
 
 client.on('message', message => { 
-
+Yui
 if (!message.guild) return; 
 
 if (message.content === 'wara') { 
@@ -57,4 +57,4 @@ client.user.setGame(`ڕیکلام بۆمن بنێرە`,"http://twitch.tv/PAYWAND
 
 
 
-client.login("NzkyMzgyNzA0OTkzNjk3ODIz.X-c55g.xwrRROmgo316uE48KxH3cUk6SCo");//تۆکین لێرە دانێ
+client.login("NzkyNjc1NjU5NDIyODkyMTAz.X-hKvA.re1rYNqr5sfhnuiU-AQBLlVIyxY");//تۆکین لێرە دانێ
